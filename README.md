@@ -1,5 +1,9 @@
-## Hi there 👋
+## Olá 👋
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Augusto-Pedro05&show_icons=true&theme=blue-green)
 
+# Meu Perfil no Beecrowd
+[![Problemas Resolvidos](https://img.shields.io/badge/Problemas%20Resolvidos-100-brightgreen)](https://www.beecrowd.com.br/judge/en/profile/seu_usuario)
+[![Ranking](https://img.shields.io/badge/Ranking-500-blue)](https://www.beecrowd.com.br/judge/en/rankings)
 <!--
 **Augusto-Pedro05/Augusto-Pedro05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
